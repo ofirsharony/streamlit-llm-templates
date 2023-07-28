@@ -5,7 +5,9 @@ A small library of examples for getting started with streamlit, LLM and langchai
 
 Fork and get started.
 
-![Alt text](./resources/llm_story_generator.png?raw=true "single question template")
+# Example
+
+![Alt text](./resources/llm_stories_generator.png?raw=true "single question template")
 
 ## Templates
 
@@ -33,7 +35,7 @@ Install dependencies
 
 Add your openAI key 
 ```bash
-    export OPENAI_API_KEY=sk-XXXX
+  export OPENAI_API_KEY=sk-XXXX
 ```
 
 Run it!
@@ -41,7 +43,6 @@ Run it!
 ```bash
   streamlit run single-question-llm.py
 ```
-
 
 ## Contributing
 
