@@ -33,7 +33,7 @@ Install dependencies, by either 'pip install -r requirements.txt' or directly vi
   pip install openai langchain streamlit
 ```
 
-Add your openAI key 
+Make sure your OpenAI key is defined as environment var 
 ```bash
   export OPENAI_API_KEY=sk-XXXX
 ```
@@ -52,5 +52,5 @@ Feel free to add your own templates.
 
 ## License
 
-Free to do whatever you'd like.
+You are free to do whatever you'd like, including copying, modifying and distributing, without any need for attribution.
 
