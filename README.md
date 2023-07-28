@@ -27,7 +27,7 @@ Go to the project directory, to the desired template, e.g
   cd streamlit-llm-templates/single-question-llm
 ```
 
-Install dependencies
+Install dependencies, by either 'pip install -r requirements.txt' or directly via
 
 ```bash
   pip install openai langchain streamlit
